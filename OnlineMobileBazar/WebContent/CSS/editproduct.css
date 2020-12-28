@@ -1,0 +1,41 @@
+@charset "ISO-8859-1";
+
+body{
+	background-image:url('im3.jpg');
+	background-repeat:no-repeat;
+	background-position:center top;
+	background-size:cover;
+	background-attachment:fixed;
+	
+	
+}
+a{
+	float:right;
+	color:#ff0000;
+	font-weight:800;
+	font-size:22px;
+}
+h1{
+	color:#000000;
+	font-weight:1500;
+	font-size:40px;
+}
+
+label{
+	color:#000000;
+	font-weight:800;
+	font-size:20px;
+}
+
+input[type="submit"]{
+	background-color:#000000;
+	color:white;
+	padding:10px 10px;
+	border:none;
+}
+input[type="reset"]{
+	background-color:#000000;
+	color:white;
+	padding:10px 10px;
+	border:none;
+}
